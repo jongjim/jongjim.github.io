@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Hello Gridea | aisuru</title>
-<link rel="shortcut icon" href="https://jongjim.github.io/favicon.ico?v=1607501404386">
+<link rel="shortcut icon" href="https://jongjim.github.io/favicon.ico?v=1607519657755">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://jongjim.github.io/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="Hello Gridea | aisuru - Atom Feed" href="https://jongjim.github.io/atom.xml">
@@ -28,7 +28,7 @@ Gridea 主页
       <div class="main-content">
         <div class="site-header">
   <a href="https://jongjim.github.io">
-  <img class="avatar" src="https://jongjim.github.io/images/avatar.png?v=1607501404386" alt="">
+  <img class="avatar" src="https://jongjim.github.io/images/avatar.png?v=1607519657755" alt="">
   </a>
   <h1 class="site-title">
     aisuru
@@ -40,25 +40,25 @@ Gridea 主页
     
       
         <a href="/" class="menu">
-          首页
+          Home
         </a>
       
     
       
         <a href="/archives" class="menu">
-          归档
+          Archive
         </a>
       
     
       
         <a href="/tags" class="menu">
-          标签
+          Tag
         </a>
       
     
       
         <a href="/post/about" class="menu">
-          关于
+          About
         </a>
       
     
@@ -148,6 +148,32 @@ Gridea 主页
 
         
 
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'd23fb9ebf3708db71298',
+    clientSecret: '362886779d7cc270b5a8494a0a13c232c71b4224',
+    repo: 'jongjim.github.io',
+    owner: 'jongjim',
+    admin: ['jongjim'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
         
 
         <div class="site-footer">
