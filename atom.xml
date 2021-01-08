@@ -2,14 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jongjim.github.io</id>
     <title>aisuru</title>
-    <updated>2020-12-20T09:14:57.075Z</updated>
+    <updated>2021-01-08T02:53:34.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jongjim.github.io"/>
     <link rel="self" href="https://jongjim.github.io/atom.xml"/>
     <subtitle>Throw it all away, let&apos;s lose ourselves.</subtitle>
     <logo>https://jongjim.github.io/images/avatar.png</logo>
     <icon>https://jongjim.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, aisuru</rights>
+    <rights>All rights reserved 2021, aisuru</rights>
+    <entry>
+        <title type="html"><![CDATA[Saturday Gigs]]></title>
+        <id>https://jongjim.github.io/post/saturday-gigs/</id>
+        <link href="https://jongjim.github.io/post/saturday-gigs/">
+        </link>
+        <updated>2021-01-08T02:51:06.000Z</updated>
+        <content type="html"><![CDATA[<p><em>Saturday Gigs</em> 收录在 Mott the Hoople 于一九七四年发布的专辑「The Hoople」，但我今天想分享的则是主唱 Ian Hunter 二〇〇二年在 Sentrum Scene 演出的版本。</p>
+<p>吃早饭时在歌单里随机播放到它，听到第一句时便心头一颤。虽然并没有听清歌词，但却坚定地认为这会是一首「此情可待成追忆，只是当时已惘然」的歌曲，解锁后一看，果然。</p>
+<p>Ian Hunter 在 <em>Saturday Gigs</em> 的主歌部分采用了回忆式的写作手法，时间跨度从一九六九年到一九七四年。副歌部分则是一问一答的对白，像是多年不见的好友街角重逢，寒暄中不经意间提起往事。在我看来这正好象征了人生的几个阶段——青年、成年、中年、暮年：</p>
+<ul>
+<li>那时我们年轻，怀揣着最昂贵的白日梦与最便宜的葡萄酒，在礼拜天的午后随便跑到一个地方喝到天昏地暗。世界的甜美或崩坏是大人的事，我们只想与最火热的切尔西女孩住进国王大道旁的公寓；</li>
+<li>退学的退学，停工的停工，无论怎样，我们终于聚在了一起，拿着吉他贝斯与鼓，把那些老家伙踢下金曲榜。未来是我们的，这也许不是最好的时代，但一定是我们的时代；</li>
+<li>溃烂之后是长久的开花，就像夸张童话，我们穿上漂亮西装，平底靴擦得发亮，一场门票高达 72 美元的巡演就要开始；</li>
+<li>如今我们碰面，聊起年青时吹过的牛皮。现在的孩子们听的都是什么老掉牙的玩意？我们可是开过几场演唱会的人。</li>
+</ul>
+<p>之所以选择分享 Sentrum Scene 版本的 <em>Saturday Gigs</em>，是因为它展现了现场音乐的魅力——每一秒都是不可复制的存在——结束之际时歌迷继续大声合唱，Ian Hunter 在说了一句「No, no, no, it's finish.」后又不可抗拒地与乐队唱了起来。</p>
+<p>这首歌让我想起了北岛的《波兰来客》，也许你们对这篇散文并不熟悉，但里面的一段话却在互联网上广为流传，以一种被回车键误导、被读者误解成诗的形式。</p>
+<blockquote>
+<p>那时我们有梦，关于文学，关于爱情，关于穿越世界的旅行。如今我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。</p>
+</blockquote>
+<p>梦破碎没什么，我的朋友，只要我们仍然能深夜饮酒，那就是一件幸福的事。</p>
+<p><a href="https://music.apple.com/cn/album/saturday-gigs-live-from-sentrum-scene-oslo-2002/1465129371?i=1465130517&amp;l=en">Apple Music</a></p>
+<p><a href="https://open.spotify.com/track/0BVxBFZdTDAOw5I3ZqOaSl?si=1GwM_YyPQ0mTB5OsUT3zhg">Spotify</a></p>
+<p><a href="https://music.163.com/song?id=18361358&amp;userid=46874975">网易云音乐</a></p>
+<p><a href="https://www.bilibili.com/video/BV15t411C7Mg">现场影片</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[气球]]></title>
         <id>https://jongjim.github.io/post/balloon/</id>
@@ -216,36 +243,6 @@
 <p>你还需要保持足够敏锐的感知，与一位公民的自觉。「犯我中华者，虽远必诛」就不用多说了吧，不了解的话就多看几遍吴京叔叔的《战狼 2》，这是我们伟大人生里的一门必修课。其次是熟练掌握各类网络用语与缩写，以及「不信谣不传谣」「等一个反转」「别被带节奏」等短句，大学生的身份之下，我们还可以当一个理中客。</p>
 <p>当然，所有这些的前提是，你需要一身健壮的体魄，足以让东方明珠下的废青们望而生畏。</p>
 <p>越过高考之后，我们都有光明的未来。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寸铁非腰，近人可读]]></title>
-        <id>https://jongjim.github.io/post/Kidney/</id>
-        <link href="https://jongjim.github.io/post/Kidney/">
-        </link>
-        <updated>2020-06-20T09:43:17.000Z</updated>
-        <content type="html"><![CDATA[<p>二〇一七年六月六日，刘弢在博客发文：</p>
-<blockquote>
-<p>从今往后的正式团名 / 其修远兮的准专辑名 / 以及新旧交杂的成员姓名；官方说法，一言为定。</p>
-</blockquote>
-<p>二〇一七年九月十七日，应朋友约，寸铁亮相<a href="https://weibo.com/6381257207/JoXq5zGv3">内耳音乐节</a>。演出开始时台上忽然亮起「寸铁演腰，下不为例」几个大字。对此，刘弢曾在博客晒出其和某小众音乐微信平台的小编的对话，里面解释道：</p>
-<blockquote>
-<p>是这样，因为寸铁已是正式新团，有在准备新创作，但遗憾离完成还早。这回杭州只能演出以往腰的作品，实属无奈之举，一场则已。若接着再用新名演旧曲就过于打脸，待以时日，专辑能出，会有正式演出计划，盼能理解。</p>
-</blockquote>
-<p>二〇二〇年六月十九日，寸铁发布首张专辑《近人可读》。</p>
-<p>正如腰的首张专辑《我们究竟应该面对谁去歌唱》的首发演出碰上「乐坛另一盛事」——超女总决选一样，寸铁的首张专辑《近人可读》发布前夕正是「京东 618」——这个与「双 11」遥遥相望的另一大国盛事。和使用功能机投票的时代差不多，我们在昨天，无节制地挥洒有且仅有的狂热，在消费主义的体面里、在扑通乱跳的数字里找寻意义。</p>
-<p>一年三百六十五天，让我熬夜等新歌的音乐人并不多。上周的周杰伦算一个，昨晚的寸铁算一个。对于他们，向来是听一张少一张，对于我，能借助有问题的夜，把愚钝的脑袋发热，自然是可矣可矣，求之不及。</p>
-<p>直到此刻，我也仍然未算缓过神来。在腰的乐迷里，我属于晚来的一批，在我喜欢上他们的音乐的时候，他们已经谢幕。一六一七年那会因为几首民谣了解到作词人唐映枫，又从他那里得知「腰」这个乐队。从《我们究竟应该面对谁去歌唱》开始听，自然是觉得呕哑嘲哳，于是就此搁置。直到后来看到韩寒<a href="https://weibo.com/1191258123/FpM8gtA9A">推荐</a>，又找来《世界呢分钟》细听，自此喜欢上腰的音乐。</p>
-<p>对于其修远兮的《近人可读》，我与初次涉世的嫖客颇为类似，既十分期待又害怕失望。这种心理并非对腰才有，万青、草东亦如此。当我不断循环他们之前的专辑时，不免会对他们的下一张专辑充满期待，但同时又害怕自己现在提高的预期，到时候又会演化成失落。</p>
-<p>昨夜至今，听了《近人可读》几遍，最直观的感受是「风平浪静的悦耳」，编曲对听众更加友好，刘弢写词的水准仍在，只是我却没有了第一次听《他们说忘了摇滚有问题》时的惊异与震撼，我不清楚这是谁的问题，兴许只是错觉吧。</p>
-<p>腰的吉他手曹丹平昨晚在新浪微博发<a href="https://weibo.com/5242150339/J7gXXwbre">文</a>：「18 分钟 3000 张就没了，你再也不是 5 年都没卖完的忘摇那个时候不被听见的声音了」。的确，他们再也不会面临「卖出由摩登天空精美制作的唱片 30 张」的病态文化市场了，今天早上，「寸铁 近人可读」极具讽刺地登上微博热搜。</p>
-<p>内耳音乐节后刘弢在博客曾写：</p>
-<blockquote>
-<p>还有一件事让我后悔，虽然拍照难受，但你们背来的唱片，只要碰到并需要，都应该写给你们。我羡慕你们可以为一件事奔波而来，像我从前也一定曾为某件事玩命的去，但是越到后来，这种事就会越少。</p>
-<p>我们总归互相看到了一次对方，于他人口中一种“情结”的交代算完毕；昨夜回想今午打字，为这些实在是不说会憋死的话，尽力保持了自然，就算有点偏软也淡话；这个博客快要十年，顺便到这篇也就完毕了。什么都要过去和开始，有很多人终于见过和终生没有见过，但只要心里想着，就两种都好。</p>
-<p>再见。</p>
-</blockquote>
-<p>虽然未曾看过腰的现场，但终生没有见过，只要心里想着，似也不错。</p>
 ]]></content>
     </entry>
 </feed>
